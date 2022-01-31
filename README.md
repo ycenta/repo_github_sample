@@ -2,6 +2,7 @@
 Github pages :
 https://ycenta.github.io/repo_github_sample/
 
+(fausses instructions)
 ## Installation 
 
 C'est un repository de projet
